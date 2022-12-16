@@ -180,7 +180,7 @@ public class MainWindow extends JFrame {
     }
     
     /**
-     * creates a menuItems for selecting levels
+     * creates menuItems for selecting levels
      * @param menu where to create the menuItems
      */
     private void createGameLevelMenuItems(JMenu menu) {
